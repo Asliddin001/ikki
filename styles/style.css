@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@600&family=Lato:wght@700&family=Manrope:wght@400;800&family=Montserrat:wght@100&family=Open+Sans:wght@300&family=Oswald:wght@200&family=Poppins:wght@300&family=Roboto&family=Space+Grotesk:wght@300;700&family=Ubuntu:wght@300&display=swap');
+.headr{
+    width: 1440px;
+    height: 754px;
+    border: solid red;
+    margin: 0 auto;
+    background-image: url(../img/Rectangle\ 1backggroud.png);
+    background-size: 100%;
+}
+header{
+    border: solid green;
+    width: 603px;
+    height: 20px;
+    margin-left: 584px;
+    margin-top: 45px;
+}
+nav{
+    word-spacing: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.hh{
+    border: solid red;
+    width: 665px;
+    height: 406px;
+    margin-left: 122px;
+    margin-top: 200px;
+}
+.hh1{
+    font-family: 'Manrope';
+    font-weight: 800;
+    font-size: 64px;
+    margin-top: -8px;
+}
+.pp{
+    font-family: 'Manrope';
+    font-weight: 400;
+}
+.btn1{
+    color: white;
+    padding: 10px 20px;
+    left: 1300px;
+    top: 47px;
+    position: absolute;
+    background-color: #F84646;
+    border: solid #F84646;
+    border-radius: 5px;
+}
