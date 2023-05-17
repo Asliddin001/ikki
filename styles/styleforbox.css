@@ -9,7 +9,6 @@
     width: 360px;
     height: 300px;
     position: relative;
-    border: solid black;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -38,7 +37,6 @@
     width: 360px;
     height: 300px;
     position: relative;
-    border: solid black;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -67,7 +65,6 @@
     width: 360px;
     height: 300px;
     position: relative;
-    border: solid black;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -97,7 +94,6 @@
     width: 360px;
     height: 300px;
     position: relative;
-    border: solid black;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -126,7 +122,6 @@
     width: 360px;
     height: 300px;
     position: relative;
-    border: solid black;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -155,7 +150,6 @@
     width: 360px;
     height: 300px;
     position: relative;
-    border: solid black;
     display: flex;
     justify-content: flex-start;
     align-items: center;
