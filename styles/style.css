@@ -8,6 +8,7 @@
 .container {
   max-width: 1153px;
   margin: 0 auto;
+  border: solid gray;
 }
 
 header {
@@ -61,7 +62,7 @@ header .hero {
   padding: 6px;
   width: 500px;
   display: flex;
-  border-radius: 8px;
+  border-radius: 10px;
   padding-left: 32px;
 }
 .input-group input {
@@ -77,4 +78,20 @@ header .hero {
   background: #f84646;
   color: #fff;
   cursor: pointer;
+}
+.container .kalitve{
+    max-width: 1153px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    line-height: 49px;
+}
+.kalitve h1{
+    font-weight: 800;
+    font-size: 36px;
+}
+.kalitve p{
+    font-size: 24px;
+    letter-spacing: 0.2px;
 }
