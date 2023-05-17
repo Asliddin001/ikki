@@ -174,3 +174,14 @@
     width: 50px;
     z-index: 1;
 }
+.nasvay .boxx{
+    border: solid black;
+    width: 154px;
+    height: 39px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+.boxx p{
+    margin-top: -5px;
+}
