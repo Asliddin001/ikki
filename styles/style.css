@@ -138,23 +138,25 @@ header .hero {
   flex-direction: row;
   align-items: flex-start;
 }
-.container{
-  border: solid red;
-}
 .kalve{
   width: 100%;
   display: flex;
   flex-direction: column;
+  margin-top: 100px;
 }
 .kalve1{
-  width: 50%;
-  height: 1080px;
+  width: 100%;
+  height: 540px;
   display: flex;
-  flex-direction: column;
-  border: solid blue;
+  flex-direction: row;
+  gap: 100px;
+}
+.kalve11{
+  width: 100px;
 }
 .kalve2{
-  border: solid green;
+  width: 100%;
+  height: 540px;
 }
 .kalve1 h1{
   font-size: 64px;
@@ -175,8 +177,43 @@ header .hero {
   color: #fff;
 }
 .kalveimg{
+  background: url(../img/Illustrationteacher\ brat.jpg);
+  width: 504px;
+  height: 480px;
+  background-position: right;
+  background-repeat: no-repeat;
+}
+.kalve2{
+  width: 100%;
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 100px;
+  width: 100%;
+  height: 540px;
+  align-items: end;
+}
+.kalve2 h1{
+  font-size: 64px;
+  font-weight: 700;
+}
+.kalve2 p{
+  margin-top: 40px;
+  line-height: 30px;
+  color: #808080;
+}
+.kalve2 button{
+  background: #f84646;
+  margin-top: 100px;
+  border-radius: 8px;
+  width: 160px;
+  height: 48px;
+  border: none;
+  color: #fff;
+}
+.kalveimg1{
   background: url(../img/Illustrationachkili\ brat.jpg);
   width: 504px;
   height: 480px;
-  margin-top: 120px;
+  background-position: right;
+  background-repeat: no-repeat;
 }
