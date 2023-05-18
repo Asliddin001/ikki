@@ -175,13 +175,34 @@
     z-index: 1;
 }
 .nasvay .boxx{
-    border: solid black;
     width: 154px;
-    height: 39px;
+    height: 52px;
     display: flex;
     align-items: flex-start;
     justify-content: center;
+    line-height: 23px;
 }
-.boxx p{
-    margin-top: -5px;
+.boxx span{
+    color: #fff;
+}
+.boxx img{
+    margin-top: 10px;
+}
+.spbx{
+    background: url(../img/Vctor_img.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 20px;
+    height: 20px;
+    margin-top: 12px;
+    margin-left: -25px;
+}
+.spbx1{
+    background: url(../img/Vctor_img.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 20px;
+    height: 20px;
+    margin-top: 12px;
+    margin-left: -14px;
 }
