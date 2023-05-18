@@ -142,12 +142,41 @@ header .hero {
   border: solid red;
 }
 .kalve{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.kalve1{
   width: 50%;
   height: 1080px;
   display: flex;
   flex-direction: column;
+  border: solid blue;
 }
-.kalve h1{
+.kalve2{
+  border: solid green;
+}
+.kalve1 h1{
   font-size: 64px;
   font-weight: 700;
+}
+.kalve1 p{
+  margin-top: 40px;
+  line-height: 30px;
+  color: #808080;
+}
+.kalve1 button{
+  background: #f84646;
+  margin-top: 100px;
+  border-radius: 8px;
+  width: 160px;
+  height: 48px;
+  border: none;
+  color: #fff;
+}
+.kalveimg{
+  background: url(../img/Illustrationachkili\ brat.jpg);
+  width: 504px;
+  height: 480px;
+  margin-top: 120px;
 }
